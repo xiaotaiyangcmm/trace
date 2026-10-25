@@ -18,9 +18,9 @@ shown below:
 
 | Folder | Baidu Netdisk | Code |
 |:--|:--|:--|
-| `data/test/` | `<BAIDU_TEST_DATA_URL>` | `<CODE>` |
-| `checkpoints/traceformer/` | `<BAIDU_TRACEFORMER_URL>` | `<CODE>` |
-| `checkpoints/neurondpo/` | `<BAIDU_NEURONDPO_URL>` | `<CODE>` |
+| `data/test/` | ` https://pan.baidu.com/s/1NXBxY4kw3WTI6vNoenujpw?pwd=edbh` | `edbh` |
+| `checkpoints/traceformer/` | `https://pan.baidu.com/s/16A0mHMc_WzRL-_3kDG6KLQ?pwd=qtxb` | `qtxb` |
+| `checkpoints/neurondpo/` | `https://pan.baidu.com/s/1J-KlQLdQoBFXegTjjw2q3g?pwd=xi9i ` | `xi9i` |
 
 Run TraceFormer inference without Neuron-DPO:
 
@@ -43,7 +43,7 @@ below:
 
 | Folder | Baidu Netdisk | Code |
 |:--|:--|:--|
-| `data/train/` | `<BAIDU_TRAIN_DATA_URL>` | `<CODE>` |
+| `data/train/` | `https://pan.baidu.com/s/1jgJE1XFBA4Lc637byGwJgw?pwd=xd1p` | `xd1p` |
 
 Train TraceFormer without Neuron-DPO:
 
