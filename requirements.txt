@@ -1,0 +1,9 @@
+numpy==1.24.4
+tqdm==4.66.1
+boto3==1.37.38
+sacremoses==0.1.1
+easydict==1.13
+timm==0.4.12
+matplotlib==3.7.5
+causal-conv1d==1.1.1
+mamba-ssm==1.1.1
