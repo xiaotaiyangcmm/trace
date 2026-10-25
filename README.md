@@ -18,7 +18,7 @@ shown below:
 
 | Folder | Baidu Netdisk | Code |
 |:--|:--|:--|
-| `data/test/` | ` https://pan.baidu.com/s/1NXBxY4kw3WTI6vNoenujpw?pwd=edbh` | `edbh` |
+| `data/test/` | `https://pan.baidu.com/s/1NXBxY4kw3WTI6vNoenujpw?pwd=edbh` | `edbh` |
 | `checkpoints/traceformer/` | `https://pan.baidu.com/s/16A0mHMc_WzRL-_3kDG6KLQ?pwd=qtxb` | `qtxb` |
 | `checkpoints/neurondpo/` | `https://pan.baidu.com/s/1J-KlQLdQoBFXegTjjw2q3g?pwd=xi9i ` | `xi9i` |
 
